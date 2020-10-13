@@ -19,7 +19,7 @@ export default function Checkout() {
     <Container maxWidth="lg">
       <div className={classes.main}>
         <Typography variant="h4" component="h1" gutterBottom color="primary">
-          Coming soon!
+          Coming soon :)
         </Typography>
       </div>
     </Container>
