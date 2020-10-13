@@ -35,7 +35,7 @@ export default function Index(lazyProps) {
         ) : (
           <div className={classes.main}>
             <Typography variant="h3" component="h1" gutterBottom color="primary">
-              {state.pageData.slots.heading}
+              {state.pageData.slots.heading} :)
             </Typography>
             <CmsSlot>{state.pageData.slots.description}</CmsSlot>
           </div>
